@@ -1,0 +1,23 @@
+
+
+.img-responsiva{
+    max-width: 100%; /*para a img esta sempre tentando ocupar toda a sua largura dentro do espaço disponível*/
+    height: auto; /*evita distorção*/
+    display: block; /*deixa sem espaços vazios ao redor*/
+    margin: 0 auto; /*0 a margin top e bottom*/
+}
+
+.herostyle{
+    width: 100%;
+    height: 80vh;
+    background-image: url(/modocriativo/images/moodboard1-rage.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    background-color: rgba(244, 223, 220, 0.867);
+    background-blend-mode: color-burn;
+}
+.herostyle::content{
+    filter: blur(80%);
+}

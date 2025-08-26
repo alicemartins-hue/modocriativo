@@ -1,9 +1,0 @@
-
-
-.img-responsiva{
-    max-width: 100%; /*para a img esta sempre tentando ocupar toda a sua largura dentro do espaço disponível*/
-    height: auto; /*evita distorção*/
-    display: block; /*deixa sem espaços vazios ao redor*/
-    margin: 0 auto; /*0 a margin top e bottom*/
-}
-
