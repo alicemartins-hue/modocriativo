@@ -1,0 +1,24 @@
+
+
+
+/*  --------- IMG RESPONSIVO ----------
+.hero{
+    max-width: 100%;
+    height: auto;
+    display:block;
+    margin: 0 auto;
+}
+*/
+
+
+.herostyle {
+    width: 100%;
+    height: 60vh;
+    background-image: url(../images/moodboard1-rage.png);
+    background-size: ;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+
